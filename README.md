@@ -3,7 +3,6 @@
 ###
 
 <p align="left">
-My name is Aymen and I'm an automation engineer, from Algeria.<br><br>
 I'm trying to build a better world through programming, all while having a great time!
 </p>
 
