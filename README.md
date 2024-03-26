@@ -16,7 +16,7 @@ I'm trying to build a better world through programming, all while having a great
 
 ###
 
-<p align="left">✨ I'm passionate about artificial intelligence, robotics and AI automation.<br><br>📚 I'm currently learning data science and reinforcement learning for robots control.<br><br>🎯 I'm Interested in Blockchain technology and its applications.<br><br> 💬 Ask me anything about: python, AI algorithms, blockchain development <br><br>📫 Connect with me: aymenMir1001@gmail.com<br></p>
+<p align="left">✨ I'm passionate about artificial intelligence, robotics and AI automation.<br><br>📚 I'm currently learning data science and reinforcement learning for robots control.<br><br>🎯 I'm Interested in Blockchain technology and its applications.<br><br> 💬 Ask me anything about: python, AI algorithms, blockchain development <br>></p>
 
 <h2>AI Research and Projects 🤖</h2>
 <ul>   
